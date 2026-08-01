@@ -15,7 +15,7 @@
         "@vueuse/integrations": "^14.3.0",
         "@xterm/addon-fit": "^0.11.0",
         "@xterm/xterm": "^6.0.0",
-        "ani-cursor": "^0.0.5",
+        "ani-cursor": "^2.3.1",
         "butterchurn-presets": "^2.4.7",
         "cloudflare": "^6.3.0",
         "color": "^5.0.3",
@@ -82,7 +82,7 @@
     },
   },
   "overrides": {
-    "ani-cursor": "^0.0.5",
+    "ani-cursor": "^2.3.1",
     "butterchurn-presets": "3.0.0-beta.4",
     "webamp": "0.0.0-next-3a898b4",
     "winamp-eqf": "^1.0.0",
@@ -806,7 +806,7 @@
 
     "alien-signals": ["alien-signals@3.2.1", "", {}, "sha512-I8FjmltrfnDFoZedi5CG8DghVYNhzb/Ijluz7tCSJH0xpd0484Kowhbb1XDYOxfJpU1p5wnM2X54dA+IfGyD1g=="],
 
-    "ani-cursor": ["ani-cursor@0.0.5", "", { "dependencies": { "byte-data": "18.1.1", "riff-file": "^1.0.3" } }, "sha512-gGxst72lG9TOwEfbVpX9vHhzUGw+4Ee2XB6AfYq5JP+bxBtpAjgnTBepCVxYF5t1TPrWHN23nWqLTflJOA3/ag=="],
+    "ani-cursor": ["ani-cursor@2.3.1", "", { "dependencies": { "byte-data": "18.1.1", "riff-file": "^1.0.3" } }, "sha512-qe6IwRi3zpHmHl78VtiCQjbKxlpfILBRecAoQAwwMDrsv4hse/CsPZGxQFooPoCawlUrMmWQZhvtZ5D6dUMiSw=="],
 
     "ansi-escapes": ["ansi-escapes@7.3.0", "", { "dependencies": { "environment": "^1.0.0" } }, "sha512-BvU8nYgGQBxcmMuEeUEmNTvrMVjJNSH7RgW24vXexN4Ven6qCvy4TntnvlnwnMLTVlcRQQdbRY8NKnaIoeWDNg=="],
 
