@@ -25,7 +25,7 @@
 	},
 	"dependencies": {
 		"@cloudflare/actors": "^0.0.1-beta.6",
-		"@cosmograph/cosmograph": "^2.3.2",
+		"@cosmograph/cosmograph": "^2.4.1",
 		"@ruffle-rs/ruffle": "^0.3.0",
 		"@unhead/vue": "^3.1.0",
 		"@videojs-player/vue": "^1.0.0",

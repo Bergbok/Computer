@@ -6,7 +6,7 @@
       "name": "website",
       "dependencies": {
         "@cloudflare/actors": "^0.0.1-beta.6",
-        "@cosmograph/cosmograph": "^2.3.2",
+        "@cosmograph/cosmograph": "^2.4.1",
         "@ruffle-rs/ruffle": "^0.3.0",
         "@unhead/vue": "^3.1.0",
         "@videojs-player/vue": "^1.0.0",
@@ -178,9 +178,9 @@
 
     "@cloudflare/workerd-windows-64": ["@cloudflare/workerd-windows-64@1.20260708.1", "", { "os": "win32", "cpu": "x64" }, "sha512-bC/aSAwLy16Vjo24i9XU3aWH+eRgz7NeR5xPKavGbembO18ZywYTQbXh14eXtY6fAqN3RzRG8psijTdhX4xydA=="],
 
-    "@cosmograph/cosmograph": ["@cosmograph/cosmograph@2.3.2", "", { "dependencies": { "@cosmograph/ui": "2.3.2", "@cosmos.gl/graph": "3.0.0-beta.8", "@duckdb/duckdb-wasm": "1.32.0", "@interacta/css-labels": "^0.6.0", "@supabase/supabase-js": "^2.98.0", "@uwdata/mosaic-core": "^0.21.1", "@uwdata/mosaic-plot": "^0.21.1", "@uwdata/mosaic-sql": "^0.21.1", "@uwdata/vgplot": "^0.21.1", "apache-arrow": "17.0.0", "d3-array": "^3.2.4", "d3-brush": "^3.0.0", "d3-color": "^3.1.0", "d3-interpolate": "^3.0.1", "d3-scale": "^4.0.2", "d3-selection": "^3.0.0", "dompurify": "^3.2.6" } }, "sha512-J0sdQTHYQEvhdw0NsQ4f3nwq0a+kTw8rfI/5pNshyWceNL3U4CosQ7cLr0FdaP+Lbbez9XBrpggVk8I7nLQZaQ=="],
+    "@cosmograph/cosmograph": ["@cosmograph/cosmograph@2.4.1", "", { "dependencies": { "@cosmograph/ui": "2.4.1", "@cosmos.gl/graph": "3.0.0-beta.8", "@duckdb/duckdb-wasm": "1.32.0", "@interacta/css-labels": "^0.6.0", "@supabase/supabase-js": "^2.98.0", "@uwdata/mosaic-core": "^0.21.1", "@uwdata/mosaic-plot": "^0.21.1", "@uwdata/mosaic-sql": "^0.21.1", "@uwdata/vgplot": "^0.21.1", "apache-arrow": "17.0.0", "d3-array": "^3.2.4", "d3-brush": "^3.0.0", "d3-color": "^3.1.0", "d3-interpolate": "^3.0.1", "d3-scale": "^4.0.2", "d3-selection": "^3.0.0", "dompurify": "^3.2.6" } }, "sha512-4X6V0IS+n/AQUO38y3xJXbbiyOpqjcH2PAnK37YnAm8BUMID+nsVW9SwDQSHcjH46B+/s8jCM3deasyRJpiGPQ=="],
 
-    "@cosmograph/ui": ["@cosmograph/ui@2.3.2", "", { "dependencies": { "@juggle/resize-observer": "^3.4.0", "d3-array": "^3.2.4", "d3-axis": "^3.0.0", "d3-brush": "^3.0.0", "d3-format": "^3.1.0", "d3-scale": "^4.0.2", "d3-selection": "^3.0.0", "d3-time-format": "^4.1.0", "d3-transition": "^3.0.1" } }, "sha512-x2uZK4oG8VK8beMHTdHoOH2zXrJ7FHFlbM+nM9eMvnaHJ/NKlzLvnBZ0pU/l/weceMYxNZZyOUGnWHNPZwKqfw=="],
+    "@cosmograph/ui": ["@cosmograph/ui@2.4.1", "", { "dependencies": { "@juggle/resize-observer": "^3.4.0", "d3-array": "^3.2.4", "d3-axis": "^3.0.0", "d3-brush": "^3.0.0", "d3-format": "^3.1.0", "d3-scale": "^4.0.2", "d3-selection": "^3.0.0", "d3-time-format": "^4.1.0", "d3-transition": "^3.0.1" } }, "sha512-YXOzKn2gzv/fPnvK8IhhFeXNItqViUhUBkXsoMntiqc1rBvmlJeFurXp1+38UUHBURVYg5cldlY8IB2fX7pc4g=="],
 
     "@cosmos.gl/graph": ["@cosmos.gl/graph@3.0.0-beta.8", "", { "dependencies": { "@luma.gl/core": "~9.2.6", "@luma.gl/engine": "~9.2.6", "@luma.gl/shadertools": "~9.2.6", "@luma.gl/webgl": "~9.2.6", "d3-array": "^3.2.0", "d3-color": "^3.1.0", "d3-drag": "^3.0.0", "d3-ease": "^3.0.1", "d3-scale": "^4.0.2", "d3-selection": "^3.0.0", "d3-transition": "^3.0.1", "d3-zoom": "^3.0.0", "dompurify": "^3.2.6", "gl-bench": "^1.0.42", "gl-matrix": "^3.4.3", "random": "^4.1.0" } }, "sha512-sxWgDtukeIXOe4Yi+Cl7/cTGufthpwu14iu3tAOUWnp4IdhaXtnclji1TkSyxLOEHgGKJ1p3k3T0VghD8MfdPA=="],
 
