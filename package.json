@@ -78,7 +78,7 @@
 		"@types/rss": "^0.0.32",
 		"@types/sortablejs": "^1.15.9",
 		"@types/video.js": "^7.3.58",
-		"@vitejs/plugin-vue": "^6.0.6",
+		"@vitejs/plugin-vue": "^6.0.8",
 		"@vue/tsconfig": "^0.9.1",
 		"domutils": "^4.0.2",
 		"glob": "^13.0.6",
