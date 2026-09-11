@@ -85,7 +85,7 @@
 		"husky": "^9.1.7",
 		"lint-staged": "^17.4.1",
 		"oxfmt": "^0.47.0",
-		"oxlint": "^1.62.0",
+		"oxlint": "^1.82.0",
 		"oxlint-tsgolint": "^0.22.1",
 		"parse5": "^8.0.1",
 		"parse5-htmlparser2-tree-adapter": "^8.0.1",
