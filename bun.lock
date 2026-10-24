@@ -7,7 +7,7 @@
       "dependencies": {
         "@cloudflare/actors": "^0.0.1-beta.6",
         "@cosmograph/cosmograph": "^2.4.1",
-        "@ruffle-rs/ruffle": "^0.3.0",
+        "@ruffle-rs/ruffle": "^0.6.0",
         "@unhead/vue": "^3.1.0",
         "@videojs-player/vue": "^1.0.0",
         "@vuepic/vue-datepicker": "^14.0.0",
@@ -536,7 +536,7 @@
 
     "@rollup/pluginutils": ["@rollup/pluginutils@4.2.1", "", { "dependencies": { "estree-walker": "^2.0.1", "picomatch": "^2.2.2" } }, "sha512-iKnFXr7NkdZAIHiIWE+BX5ULi/ucVFYWD6TbAV+rZctiRTY2PL6tsIKhoIOaoskiWAkgu+VsbXgUVDNLHf+InQ=="],
 
-    "@ruffle-rs/ruffle": ["@ruffle-rs/ruffle@0.3.0", "", {}, "sha512-rGjP1SJWDr3esxBr1DUa9twvVwvO9XQDZctyWN0wveDPYIu9rd8K742U+7XA9PFife3Wx3gbSRfFaQtiy0ywpA=="],
+    "@ruffle-rs/ruffle": ["@ruffle-rs/ruffle@0.6.0", "", {}, "sha512-P2X1zDENBoiLt2ZjPcsUzaDxoR7fVF2e1U/bi7hbIAQEjkykxljSoG8AgbywHvlVVzL9Y5tIZMRqDwIm31jgPA=="],
 
     "@sentry/browser": ["@sentry/browser@5.9.1", "", { "dependencies": { "@sentry/core": "5.8.0", "@sentry/types": "5.7.1", "@sentry/utils": "5.8.0", "tslib": "^1.9.3" } }, "sha512-7AOabwp9yAH9h6Xe6TfDwlLxHbUSWs+SPWHI7bPlht2yDSAqkXYGSzRr5X0XQJX9oBQdx2cEPMqHyJrbNaP/og=="],
 
