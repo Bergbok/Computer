@@ -42,7 +42,7 @@
 		"cursor-effects": "^1.0.18",
 		"domain-destroyer": "^0.2.0",
 		"gpu-io": "^0.2.7",
-		"gridstack": "^12.6.0",
+		"gridstack": "^14.0.0",
 		"howler": "^2.2.4",
 		"hydra-synth": "^1.4.0",
 		"iggy-cursor": "^1.2.0",
